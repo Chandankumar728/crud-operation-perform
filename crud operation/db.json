@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "name": "chandan",
+      "birth": "2011-02-05",
+      "lname": "kumar",
+      "id": 27
+    },
+    {
+      "name": "Camden Morales",
+      "lname": "Sarah vsdhgzmjb",
+      "birth": "2018-11-22",
+      "sdate": "1994-06-12",
+      "ldate": "2007-08-06",
+      "salary": 27,
+      "discription": "Aut voluptas facere ",
+      "id": 28
+    }
+  ]
+}
